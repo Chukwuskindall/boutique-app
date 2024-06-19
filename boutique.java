@@ -9,17 +9,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 
-/*****
- Project Name:
- "BOUTIQUE MANAGEMENT SYSTEM"
- (Group No. 10)
- Group Members;
- Harris Baig           (FA20-BCS-052)
- Hassan Munawar        (FA20-BCS-056)
- Muhammad Maarij       (FA20-BCS-060)
- Sameet Fatima         (FA20-BCS-086)
- Shaheera Fatima       (FA20-BCS-087)
- *****/
 
 public class boutiqueManagement {
     public static void menuStock() {
